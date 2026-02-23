@@ -1,3 +1,2 @@
 # edu_info
 mysite.
-
