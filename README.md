@@ -1,3 +1,3 @@
 # edu_info
 mysite.
-work Will be soon.
+work Will be soon..
